@@ -10,6 +10,9 @@ This will allow you to bypass download restrictions of YouTube for downloading l
 
 ## Setup Tor
 You must first download and configure [Tor](https://www.torproject.org/) to run on commandline.
+```
+Note: The below is how Andy set up Tor. But I (Eddy) failed to get it work. *TODO*: Need to add the steps of my installation
+```
 
 (MacOS)
 ```

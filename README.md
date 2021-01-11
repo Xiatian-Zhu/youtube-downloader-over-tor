@@ -106,6 +106,10 @@ Start the script using
 ```
 python downloader.py
 ```
+Start the script in multi-threshold, using 
+```
+python downloader_multi_thread.py
+```
 
 ## FAQ
 ### SocketError
